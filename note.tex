@@ -1,0 +1,53 @@
+\documentclass{jsarticle}
+
+\usepackage{ascmac}
+\usepackage{graphicx}
+\usepackage[dvipdfmx]{color}
+\usepackage{amssymb,amsmath,amsthm}
+\usepackage{graphics}
+\usepackage{fancybox, tcolorbox}
+\tcbuselibrary{raster,skins, breakable}
+\usepackage{nccmath}
+\usepackage{tikz}
+\usetikzlibrary{intersections, calc, cd}
+\usepackage{bm}
+\usepackage[italicdiff]{physics}
+\usepackage{titlesec}
+\usepackage{mathtools}
+\usepackage{enumerate}
+\usepackage{float}
+\usepackage{datetime}
+\usepackage[top=1cm, bottom=2cm, left=2cm, right=2cm]{geometry}
+
+\newcommand{\xtd}{(\bm{x}', t')}
+\newcommand{\xt}{(\bm{x}, t)}
+\newcommand{\ave}[1]{\langle #1 \rangle}
+
+\makeatletter
+\newcommand*{\themonth}{\two@digits\month}
+\newcommand*{\theday}{\two@digits\day}
+\makeatother
+\renewcommand{\today}{{\the\year}/{\themonth}/{\theday}}
+
+
+\title{深層学習と統計神経力学 (甘利俊一) \\[2ex] \large Last Updated: \today, \quad writer: Shunsuke Yagi}
+\author{}
+\date{}
+
+\begin{document}
+\setcounter{section}{-1}
+\maketitle
+\section{序章}
+\section{層状のランダム結合神経回路}
+\begin{table}[H]
+  \centering
+  \begin{tabular}{|c|c|p{10 cm}|}
+      \hline
+      ページ数 & 該当箇所 & コメント \\ \hline
+      16 & 一次元の出力信号 $z$ を出す & $z$ を $y$ に変更 \\ \hline
+      17 & $w_i$ がガウス分布でなくても... & 分散の絶対値が有限である場合のみ中心極限定理によって $u$ はガウス分布に近づく。 \\ \hline
+  \end{tabular}
+  \label{tab:memo}
+\end{table}
+
+\end{document}
