@@ -1,11 +1,11 @@
 # Fdb version 4
-["dvipdf"] 1743308483.3013 "out/note.dvi" "out/note.pdf" "out/note" 1743308483.52704 0
-  "out/note.dvi" 1743308483.26406 2016 b7207bc5e4d4feec6acb3448b9575979 "latex"
+["dvipdf"] 1743309594.36333 "out/note.dvi" "out/note.pdf" "out/note" 1743309594.60948 0
+  "out/note.dvi" 1743309594.32577 2016 96ded97d7f3d03cd4cd8e5b9a4fc2603 "latex"
   (generated)
   "out/note.pdf"
   (rewritten before read)
-["latex"] 1743308482.76242 "/Users/yagis/Library/CloudStorage/OneDrive-KyushuUniversity/tex/sinsogakusyu_amari/note.tex" "out/note.dvi" "note" 1743308483.5257 0
-  "/Users/yagis/Library/CloudStorage/OneDrive-KyushuUniversity/tex/sinsogakusyu_amari/note.tex" 1743308482.55831 1531 0dc00408be67b0db53affcb2a7ef5102 ""
+["latex"] 1743309593.8406 "/Users/yagis/Library/CloudStorage/OneDrive-KyushuUniversity/tex/sinsogakusyu_amari/note.tex" "out/note.dvi" "note" 1743309594.60807 0
+  "/Users/yagis/Library/CloudStorage/OneDrive-KyushuUniversity/tex/sinsogakusyu_amari/note.tex" 1743309593.038 1530 692bf00233be9d94773d7325022644a4 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1463434352 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm" 1463434352 468 53f854284f6afa6c36aaa2d1090ecc12 ""
@@ -188,8 +188,8 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
   "/usr/local/texlive/2024/texmf-var/web2c/euptex/platex.fmt" 1731972649 8157517 a04587be046f40f4af4d15a6f020e787 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "note.tex" 1743308482.55831 1531 0dc00408be67b0db53affcb2a7ef5102 ""
-  "out/note.aux" 1743308483.26354 326 cc786f4d5472401799a2c0b9e68f2274 "latex"
+  "note.tex" 1743309593.038 1530 692bf00233be9d94773d7325022644a4 ""
+  "out/note.aux" 1743309594.32541 325 a1a207f3992d5be60456643bdf4ff684 "latex"
   (generated)
   "out/note.aux"
   "out/note.dvi"
